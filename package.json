@@ -118,7 +118,7 @@
     "eslint-plugin-react-hooks": "^7.1.1",
     "jest": "^30.5.2",
     "mini-css-extract-plugin": "^2.10.2",
-    "ts-jest": "^29.4.13",
+    "ts-jest": "^29.4.14",
     "typescript": "^7.0.2",
     "webpack-cli": "^7.2.3"
   }
